@@ -5,3 +5,5 @@
 layout: page
 title: Portfolio
 ---
+
+![My helpful screenshot](/assets/screenshot.jpg)
