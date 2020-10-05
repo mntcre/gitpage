@@ -4,5 +4,5 @@
 
 layout: home
 title: Portfolio
-list_title: 
+list_title: ' '
 ---
