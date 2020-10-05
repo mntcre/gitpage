@@ -6,4 +6,4 @@ layout: page
 title: Portfolio
 ---
 
-![My helpful screenshot](/assets/screenshot.jpg)
+![My helpful screenshot](38.png)
